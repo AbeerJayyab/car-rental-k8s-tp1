@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: car-rental-app
-          image: trialbrpy4r.jfrog.io/car-rental-docker/car-rental-app:v1
+          image: abeerjayab/car-rental-app:v1
           ports:
             - containerPort: 8081
